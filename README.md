@@ -82,7 +82,7 @@ xnor(C7,a,b);
 endmodule
 ```
  
-**Logic symbol & Truthtable**
+**Truthtable**
 ![image](https://github.com/user-attachments/assets/c0417572-658a-4173-bf1f-cbb342a87cd6)
 
 
